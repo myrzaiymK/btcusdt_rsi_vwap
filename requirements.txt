@@ -1,0 +1,8 @@
+TA-Lib==0.4.28
+websocket==0.2.1
+websocket-client==1.6.2
+websockets==10.4
+python-binance==1.0.19
+numpy==1.25.2
+TA-Lib==0.4.28
+
